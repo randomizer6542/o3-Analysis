@@ -126,3 +126,7 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+#output format
+#python lhco_converter.py input.lhco output.csv
+#python lhco_converter.py input.lhco output.docx --format docx
